@@ -14,7 +14,7 @@ Welcome to the contribution guide for our project! We appreciate your interest i
 To run a command locally, use the following command template:
 
 ```sh
-go run github.com/eyalbe4/jfrog-cli-artifactory command [options] [arguments...]
+go run github.com/jfrog/jfrog-cli-artifactory command [options] [arguments...]
 ```
 
 ---
@@ -51,7 +51,7 @@ When running tests, builds and repositories with timestamps like `cli-rt1-159299
 To run tests, use the following command:
 
 ```
-go test -v github.com/eyalbe4/jfrog-cli-artifactory [test-types] [flags]
+go test -v github.com/jfrog/jfrog-cli-artifactory [test-types] [flags]
 ```
 
 ### The available flags are:
