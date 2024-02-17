@@ -1,9 +1,9 @@
 package cli
 
 import (
-	flags "github.com/jfrog/jfrog-cli-artifactory/cli/docs"
-	cmd1docs "github.com/jfrog/jfrog-cli-artifactory/cli/docs/cmd1"
-	cmd2docs "github.com/jfrog/jfrog-cli-artifactory/cli/docs/cmd2"
+	flags "github.com/eyalbe4/jfrog-cli-artifactory/cli/docs"
+	cmd1docs "github.com/eyalbe4/jfrog-cli-artifactory/cli/docs/cmd1"
+	cmd2docs "github.com/eyalbe4/jfrog-cli-artifactory/cli/docs/cmd2"
 	"github.com/jfrog/jfrog-cli-core/v2/plugins/components"
 )
 
