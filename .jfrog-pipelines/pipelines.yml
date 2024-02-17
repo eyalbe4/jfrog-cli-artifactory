@@ -43,7 +43,7 @@ pipelines:
 
             # Configure Git and merge from the dev
             - git checkout main
-            - git remote set-url origin https://$int_il_automation_token@github.com/jfrog/jfrog-cli-artifactory.git
+            - git remote set-url origin https://$int_il_automation_token@github.com/eyalbe4/jfrog-cli-artifactory.git
             - git merge origin/dev
             - git tag v${NEXT_VERSION}
 

@@ -1,4 +1,4 @@
-module github.com/jfrog/jfrog-cli-artifactory
+module github.com/eyalbe4/jfrog-cli-artifactory
 
 go 1.20
 
